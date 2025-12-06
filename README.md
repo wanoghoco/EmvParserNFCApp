@@ -32,8 +32,7 @@ Lightweight Android app that shows how to decode a TLV which Handle multi-byte t
 Example embed:
 
 ```
-![Home](screenshoots/1.jpeg)
-![Login](screenshoots/2.jpeg)
+![Screenshot of feature](screenshots/1.jpeg)
 ```
 ---
 

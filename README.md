@@ -68,6 +68,11 @@ Run tests:
 ![ScreenShot](./screenshoots/5.jpeg)
 
 ---
+## 📱 Download APK File
+
+[Download the APK](apk/app-debug.apk)
+
+---
 
 ## 📄 License
 

@@ -8,7 +8,7 @@ Lightweight Android app that shows how to decode a TLV which Handle multi-byte t
 ## ✨ Features
 
 * Page 1- Tlv Decoder
-* Page 2- NFC transaction
+* Page 2- NFC Payment
 
 ---
 

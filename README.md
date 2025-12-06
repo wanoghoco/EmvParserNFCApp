@@ -32,7 +32,7 @@ Lightweight Android app that shows how to decode a TLV which Handle multi-byte t
 Example embed:
 
 ```
-![Screenshot of feature](https://github.com/wanoghoco/EmvParserNFCApp/tree/main/screenshoots/1.jpeg)
+![Screenshot of feature](https://github.com/wanoghoco/EmvParserNFCApp/blob/main/screenshoots/1.jpeg?raw=true)
 ```
 ---
 

@@ -5,5 +5,6 @@ data class NFCRespModel (
     val  currency:String,
     val  amount:String,
     val aid:String,
-    val cardExpiry:String
+    val cardExpiry:String,
+    val applicationLabel:String
 )
